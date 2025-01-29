@@ -1,0 +1,12 @@
+button
+{
+    font-family: helvetica;
+    letter-spacing : 1px;
+    border : 2px solid rgb(255,232,28);
+    background : rgb(255,232,28);
+    border-radius : 2px;
+    padding :  3px 10px;
+    display : inline-block;
+    cursor : pointer;
+
+}
